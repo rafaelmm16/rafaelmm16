@@ -1,7 +1,7 @@
 <h3>Welcome to my profile 👋</h3>
 
 #
-<a href="https://github.com/rafaelmm16"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaswalcker&hide=html&layout=compact&theme=dracula" alt="Card Star" align="right" width="400px" min-width="300px"></a>
+<a href="https://github.com/rafaelmm16"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmm16&hide=html&layout=compact&theme=dracula" alt="Card Star" align="right" width="400px" min-width="300px"></a>
 
 <p align="left"> 
   My name is rafael Merlo, I'm 23 years old. I am currently studying <strong> Computer Science at UFES </strong>.

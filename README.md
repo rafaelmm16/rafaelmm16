@@ -1,7 +1,19 @@
-### Hi I'm Rafael 👋
+<h3>Welcome to my profile 👋</h3>
 
+#
+<a href="https://github.com/rafaelmm16"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaswalcker&hide=html&layout=compact&theme=dracula" alt="Card Star" align="right" width="400px" min-width="300px"></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-merlo-mendes-b0427a142/)](https://www.linkedin.com/in/rafael-merlo-mendes-b0427a142/)
+<p align="left"> 
+  My name is rafael Merlo, I'm 23 years old. I am currently studying <strong> Computer Science at UFES </strong>.
+</p>
+
+<p align="left">
+  📩 Contact: ⤵️
+</p>
+
+  <a href="https://www.instagram.com/rafaelmm16">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/rafaelmm16/" alt="Instagram"/></a>
+</p>
 
 
 <!--

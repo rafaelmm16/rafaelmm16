@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  📩 Contact: ⤵️
+  📩 Contact: rafael.merlomendes@gmail.com
 </p>
 
   <a href="https://www.instagram.com/rafaelmm16">

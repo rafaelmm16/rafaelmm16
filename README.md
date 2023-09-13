@@ -4,7 +4,7 @@
 <a href="https://github.com/rafaelmm16"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmm16&hide=html&layout=compact&theme=dracula" alt="Card Star" align="right" width="400px" min-width="300px"></a>
 
 <p align="left"> 
-  My name is Rafael Merlo, I'm 24 years old. I am currently studying <strong> Computer Science at UFES </strong>.
+  My name is Rafael Merlo ;) </strong>.
 </p>
 
 <p align="left">

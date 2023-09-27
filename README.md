@@ -14,6 +14,7 @@
   <a href="https://www.instagram.com/rafaelmm16">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/rafaelmm16/" alt="Instagram"/></a>
 </p>
+<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&labelColor=0A66C2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-merlo-mendes-b0427a142/" alt="LinkedIn"/></a>
 
 
 <!--

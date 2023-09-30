@@ -1,7 +1,7 @@
 <h3>Welcome to my profile 👋</h3>
 
 #
-<a href="https://github.com/rafaelmm16"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmm16&hide=html&layout=compact&theme=dracula" alt="Card Star" align="right" width="400px" min-width="300px"></a>
+<img width="290" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmm16&layout=compact&langs_count=8&theme=midnight-purple&show_icons=true" />
 
 <p align="left"> 
   My name is Rafael Merlo ;) </strong>.

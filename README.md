@@ -3,7 +3,7 @@
 <div class="container">
   <div class="row">
     <div class="col-md-8">
-      <a href="https://github.com/rafaelmm16"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmm16&hide=html&layout=compact&theme=dracula" alt="Card Star" align="right" width="400px" min-width="300px"></a>
+      <a href="https://github.com/rafaelmm16"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmm16&hide=html&layout=compact&theme=dark" alt="Card Star" align="right" width="400px" min-width="300px"></a>
     </div>
     <div class="col-md-4">
       <p align="left"> 

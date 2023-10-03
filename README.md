@@ -1,7 +1,3 @@
----
-theme: github-readme-stats
----
-
 ### Welcome to my profile 👋
 
 <div class="container">

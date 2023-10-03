@@ -1,4 +1,8 @@
-<h3>Welcome to my profile 👋</h3>
+---
+theme: github-readme-stats
+---
+
+### Welcome to my profile 👋
 
 <div class="container">
   <div class="row">
@@ -6,7 +10,7 @@
       <a href="https://github.com/rafaelmm16"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmm16&hide=html&layout=compact&theme=dark" alt="Card Star" align="right" width="400px" min-width="300px"></a>
     </div>
     <div class="col-md-4">
-      <p align="left"> 
+      <p align="left">
         My name is Rafael Merlo ;).
       </p>
 

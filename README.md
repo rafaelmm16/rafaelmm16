@@ -1,17 +1,6 @@
 <h2 align="center"> BEM VINDO!</h2>
 
-<h2 align="center"                  
-<div class="column">
-<img align="top" src="https://media0.giphy.com/media/iulUAFJ8GcHGE/200.gif" width="5%" alt="coin"/>
-<img align="center" src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif" width="10%" alt="sonic"/>
-<img align="center" src="https://i.ibb.co/16r7vpM/perfil.gif" width="50%" alt="perfil"/>
-<img align="center" src="https://thumbs.gfycat.com/DisgustingPlumpAiredale-size_restricted.gif" width="10%" alt="mario"/>
-<img align="top" src="https://66.media.tumblr.com/ba496aaf17f286484fe7b55db89f2fcc/tumblr_moddiwaowU1rfjowdo1_500.gif" width="4%" alt="coin"/>
-</div>
-<img src="https://i.ibb.co/Qn4QNK6/gif.gif" width="100%" alt="Pacman"  margin: 35px 70px />
-</h2>
-
-### [Rafael Merlo](https://www.flowcode.com/page/ronildo)
+# [Rafael Merlo]
 
 > Desenvolvedor de jogos e aplicativos[ Sobre-mim ](https://rafaelmm16.github.io/)
 
@@ -26,9 +15,9 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 <div align="center">
   <a href="https://github.com/rafaelmm16">
     
-  <img height="180em" width = "42%" src="https://github-readme-stats.vercel.app/api?username=rafaelmm16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width = "42%" src="https://github-readme-stats.vercel.app/api?username=rafaelmm16&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     
-  <img height="180em" width = "50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmm16&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width = "50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmm16&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ### ⭐️ Skills
@@ -74,7 +63,7 @@ object **Rafael** {
  val acknowledgements = "Sistemas da Informação"
  
  val primarySkillset = "Desenvolvedor de sites, jogos e aplicativos"
- val languages = listOf("Java", "C#", "JavaScript", "Android", ".NET")
+ val languages = listOf("Java", "C", "JavaScript", "Android", "GO")
 }
 ```
 <p align="left">

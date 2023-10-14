@@ -2,7 +2,7 @@
 
 # [Rafael Merlo]
 
-> Desenvolvedor de jogos e aplicativos[ Sobre-mim ](https://rafaelmm16.github.io/)
+> Desenvolvedor de sites, jogos e aplicativos[ Sobre-mim ](https://rafaelmm16.github.io/)
 
 <div>
 <p align="justify">
@@ -36,18 +36,9 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 
 ### 🛠  Tools
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="Android Studio"/></code>
-<code><img height="32" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="UNITY"/></code>
-<code><img height="32" src="https://www.imagensempng.com.br/wp-content/uploads/2020/12/illustrator.png" alt="illustrator"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/600px-Visual_Studio_Code_1.35_icon.svg.png" alt="CODE"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt="VS"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" alt="PS"/></code>
-<code><img height="32" src="https://icons-for-free.com/iconfiles/png/512/after+effects+after+effects+logo+design+icon-1320084615162889386.png" alt="AF"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" alt="GITdesk"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/pt/7/7e/Fl_studio_logo.png" alt="FL Studio"/></code>
-  
-
-<code><img height="32" src="https://www.gstatic.com/images/branding/product/1x/sites_2020q4_48dp.png" alt="Google Sites"/></code>
-<code><img height="32" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="WordPress"/></code>
   
 ---
   

@@ -24,7 +24,6 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="JAVA"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="JAVASC"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt=".NET"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="c++"/></code>
 <code><img height="32" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="NODEJS"/></code>
 <code><img height="32" src="https://www.alura.com.br/artigos/assets/html-css-js/imagem-1.png" alt="HTML"/></code>
@@ -52,7 +51,7 @@ object **Rafael** {
  val acknowledgements = "Sistemas da Informação"
  
  val primarySkillset = "Desenvolvedor de sites, jogos e aplicativos"
- val languages = listOf("Java", "C", "JavaScript", "Android", "GO")
+ val languages = listOf("Java", "C", "JavaScript", "Android", "React")
 }
 ```
 <p align="left">

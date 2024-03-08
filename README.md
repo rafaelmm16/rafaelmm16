@@ -6,18 +6,17 @@
 
 <div>
 <p align="justify">
-O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolvo softwares, jogos e aplicativos móveis, de nível médio, capaz de construir pequenos projetos desde o escopo inicial, layout e programação. Habilidades em escrever códigos bem estruturados, testáveis e eficientes usando as melhores práticas atuais do mercado de desenvolvimento. Aprendizagem rápida, trabalho em equipe, proficiente em variedades de linguagens e ferramentas de desenvolvimento e multimídia. Tenho excelentes habilidades em design e programação bem como a capacidade de exercendo a função a mim destinado.
+O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolvo softwares, jogos e aplicativos móveis, de nível médio, capaz de construir pequenos projetos desde o escopo inicial, layout e programação. Habilidades em escrever códigos bem estruturados, testáveis e eficientes usando as melhores práticas atuais do mercado de desenvolvimento. Aprendizagem rápida, trabalho em equipe, proficiente em variedades de linguagens e ferramentas de desenvolvimento e multimídia.
 </p>
 </div>
 
 
 ### 🚀 Git Stats
 <div align="center">
-  <a href="https://github.com/rafaelmm16">
     
-  <img height="180em" width = "42%" src="https://github-readme-stats.vercel.app/api?username=rafaelmm16&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    
-  <img height="180em" width = "50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmm16&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" width = "40%" src="https://github-readme-stats.vercel.app/api?username=rafaelmm16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+<img height="180em" width = "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmm16&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ### ⭐️ Skills
@@ -51,13 +50,12 @@ object **Rafael** {
  val acknowledgements = "Sistemas da Informação"
  
  val primarySkillset = "Desenvolvedor de sites, jogos e aplicativos"
- val languages = listOf("Java", "C", "JavaScript", "Android", "React")
+ val languages = listOf("C", "JavaScript", "HTML", "React")
 }
 ```
 <p align="left">
   💌 Aqui você pode entrar em contato comigo: ⤵️
 </p>
 
-[<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https">](rafael.merlomendes@gmail.com)
 [<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https">](https://www.linkedin.com/in/rafael-merlo-mendes-b0427a142/)
 [<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https">](https://www.instagram.com/rafaelmm16/)

@@ -14,9 +14,9 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 ### 🚀 Git Stats
 <div align="center">
     
-<img height="180em" width = "40%" src="https://github-readme-stats.vercel.app/api?username=rafaelmm16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" width = "40%" src="https://github-readme-stats.vercel.app/api?username=rafaelmm16&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
   
-<img height="180em" width = "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmm16&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" width = "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmm16&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 
 ### ⭐️ Skills

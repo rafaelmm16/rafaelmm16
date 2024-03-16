@@ -6,7 +6,7 @@
 
 <div>
 <p align="justify">
-O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolvo softwares, jogos e aplicativos móveis, de nível médio, capaz de construir pequenos projetos desde o escopo inicial, layout e programação. Habilidades em escrever códigos bem estruturados, testáveis e eficientes usando as melhores práticas atuais do mercado de desenvolvimento. Aprendizagem rápida, trabalho em equipe, proficiente em variedades de linguagens e ferramentas de desenvolvimento e multimídia.
+O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolvo softwares, jogos e aplicativos móveis, de nível médio, capaz de construir pequenos projetos desde o escopo inicial, layout e programação. Habilidades em escrever códigos bem estruturados, testáveis e eficientes usando as melhores práticas atuais do mercado de desenvolvimento. Aprendizagem rápida, trabalho em equipe, proficiente em variedades de linguagens e ferramentas de desenvolvimento.
 </p>
 </div>
 

@@ -6,7 +6,7 @@
 
 <div>
 <p align="justify">
-O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolvo softwares, jogos e aplicativos móveis, de nível médio, capaz de construir pequenos projetos desde o escopo inicial, layout e programação. Habilidades em escrever códigos bem estruturados, testáveis e eficientes usando as melhores práticas atuais do mercado de desenvolvimento. Aprendizagem rápida, trabalho em equipe, proficiente em variedades de linguagens e ferramentas de desenvolvimento.
+O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolvo softwares e aplicativos móveis, de nível médio, capaz de construir pequenos projetos desde o escopo inicial, layout e programação. Habilidades em escrever códigos bem estruturados, testáveis e eficientes usando as melhores práticas atuais do mercado de desenvolvimento. Aprendizagem rápida, trabalho em equipe, proficiente em variedades de linguagens e ferramentas de desenvolvimento.
 </p>
 </div>
 
@@ -32,7 +32,6 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 ---
 
 ### 🛠  Tools
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="Android Studio"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/600px-Visual_Studio_Code_1.35_icon.svg.png" alt="CODE"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" alt="GITdesk"/></code>
   
@@ -49,7 +48,7 @@ object **Rafael** {
  val name = "Rafael Merlo Mendes"
  val acknowledgements = "Sistemas da Informação"
  
- val primarySkillset = "Desenvolvedor de sites, jogos e aplicativos"
+ val primarySkillset = "Desenvolvedor de sites e aplicativos"
  val languages = listOf("C", "JavaScript", "HTML", "React")
 }
 ```

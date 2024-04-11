@@ -13,10 +13,10 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 
 ### 🚀 Git Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelmm16&theme=holi&rank_icon=github" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelmm16&theme=holi&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelmm16&layout=compact&langs_count=8&card_width=320&hide_progress=true&theme=holi" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelmm16&layout=compact&langs_count=8&card_width=320&hide_progress=true&theme=holi" />
 </a>
 
 ### ⭐️ Skills

@@ -12,12 +12,12 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 
 
 ### 🚀 Git Stats
-<div>
-    
-<img height="180em" width = "50%" src="https://github-readme-stats.vercel.app/api?username=rafaelmm16&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  
-<img height="180em" width = "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmm16&layout=compact&langs_count=7&theme=rose_pine&hide=cmake,shell&hide_progress=true"/>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelmm16&theme=holi&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelmm16&layout=compact&langs_count=8&card_width=320&hide_progress=true&theme=holi" />
+</a>
 
 ### ⭐️ Skills
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>

@@ -52,7 +52,7 @@ object **Rafael** {
 }
 ```
 <p align="left">
-  💌 Aqui você pode entrar em contato comigo: ⤵️
+  📧⤵️ Aqui você pode entrar em contato comigo: 
 </p>
 
 [<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https">](https://www.linkedin.com/in/rafael-merlo-mendes-b0427a142/)

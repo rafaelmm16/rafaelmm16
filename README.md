@@ -25,7 +25,7 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 <code><img height="32" src="https://www.alura.com.br/artigos/assets/html-css-js/imagem-1.png" alt="HTML"/></code>
 <code><img height="32" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" alt="CSS"/></code>
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="PYTHON"/></code>
-<code><img height="32" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="NODEJS"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="NODEJS"/></code>
 <code><img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React"/></code>
 
 ---

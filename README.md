@@ -31,7 +31,7 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 ---
 
 ### 🛠  Tools
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/600px-Visual_Studio_Code_1.35_icon.svg.png" alt="CODE"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="CODE"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" alt="GITdesk"/></code>
   
 ---

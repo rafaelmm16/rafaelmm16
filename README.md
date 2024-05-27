@@ -2,7 +2,7 @@
 
 # [Rafael Merlo]
 
-> Desenvolvedor de sites, jogos e aplicativos[ Sobre-mim ](https://rafaelmm16.github.io/)
+> Desenvolvedor de sites e aplicativos[ Sobre-mim ](https://rafaelmm16.github.io/)
 
 <div>
 <p align="justify">

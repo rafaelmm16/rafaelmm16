@@ -2,7 +2,7 @@
 
 # [Rafael Merlo]
 
-> Desenvolvedor de sites e aplicativos [ Sobre-mim ](https://rafaelmm16.github.io/)
+> [ Meu site ](https://rafaelmm16.github.io/)
 
 <div>
 <p align="justify">
@@ -28,12 +28,6 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 <code><img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="NODEJS"/></code>
 <code><img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React"/></code>
 
----
-
-### 🛠  Tools
-<code><img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="CODE"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" alt="GITdesk"/></code>
-  
 ---
   
 

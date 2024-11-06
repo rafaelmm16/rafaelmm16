@@ -10,7 +10,7 @@ Desenvolvedor Web e Mobile focado em criar soluções inovadoras e eficientes.  
 
 
 ### 🚀 Git Stats
-<div align="center">
+<div >
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelmm16&theme=holi&rank_icon=github" />
 </a>
@@ -20,7 +20,7 @@ Desenvolvedor Web e Mobile focado em criar soluções inovadoras e eficientes.  
 </div>
 
 ### 🌟 Skills
-<div align="center">
+<div >
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="JAVASC"/></code>
 <code><img height="32" src="https://www.alura.com.br/artigos/assets/html-css-js/imagem-1.png" alt="HTML"/></code>
@@ -36,7 +36,7 @@ Desenvolvedor Web e Mobile focado em criar soluções inovadoras e eficientes.  
 
 ###
 
-<div align="center">
+<div >
   <img src="https://streak-stats.demolab.com?user=rafaelmm16&locale=pt_br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 

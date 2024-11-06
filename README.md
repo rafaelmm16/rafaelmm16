@@ -37,7 +37,7 @@ Desenvolvedor Web e Mobile focado em criar soluções inovadoras e eficientes.  
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rafaelmm16&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=rafaelmm16&locale=pt_br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###

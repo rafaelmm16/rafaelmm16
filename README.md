@@ -1,23 +1,15 @@
 <h2 align="center"> BEM VINDO!</h2>
 
-# Rafael Merlo
-
 <div>
-<p align="justify">
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" style="margin-bottom:1rem;" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelmm16&layout=compact&langs_count=8&card_width=320&hide_progress=true&theme=holi" />
+  </a>
+  <p>
 Desenvolvedor Web e Mobile focado em criar soluções inovadoras e eficientes.  Amante de novas tecnologias e apaixonado por transformar ideias em realidade através do código.
 </p>
 </div>
 
-
-### 🚀 Git Stats
-<div >
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelmm16&theme=holi&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelmm16&layout=compact&langs_count=8&card_width=320&hide_progress=true&theme=holi" />
-</a>
-</div>
+---
 
 ### 🌟 Skills
 <div >
@@ -30,15 +22,12 @@ Desenvolvedor Web e Mobile focado em criar soluções inovadoras e eficientes.  
 <code><img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React"/></code>
 </div>
 
-###
+---
 
-<h3 align="left">🔥  Streak </h3>
+### 🎧 Estou ouvindo
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8durloonbelixbpo9w1q2ncp0&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-###
-
-<div >
-  <img src="https://streak-stats.demolab.com?user=rafaelmm16&locale=pt_br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+---
 
 ###
 

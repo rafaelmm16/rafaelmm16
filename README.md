@@ -39,7 +39,7 @@ object **Rafael** {
  val acknowledgements = "Sistemas da Informação"
  
  val primarySkillset = "Desenvolvedor de sites e aplicativos"
- val languages = listOf("C", "JavaScript", "HTML", "React")
+ val languages = listOf("C", "HTML", "CSS", "JavaScript", "React")
 }
 ```
 <p align="left">

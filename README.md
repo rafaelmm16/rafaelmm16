@@ -1,17 +1,15 @@
 <h2 align="center"> BEM VINDO!</h2>
 
 <div>
-  <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" style="margin-bottom:1rem;" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelmm16&layout=compact&langs_count=8&card_width=320&hide_progress=true&theme=holi" />
-  </a>
-  <p>
+<p>
 Desenvolvedor Web e Mobile focado em criar soluções inovadoras e eficientes.  Amante de novas tecnologias e apaixonado por transformar ideias em realidade através do código.
 </p>
 </div>
 
 ---
 
-### 🌟 Skills
+### 🚀 Habilidades
 <div >
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="JAVASC"/></code>
@@ -42,9 +40,7 @@ object **Rafael** {
  val languages = listOf("C", "HTML", "CSS", "JavaScript", "React")
 }
 ```
-<p align="left">
-  📬☑️ Contatos: 
-</p>
+### 📫 Contato
 
 [<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https">](https://www.linkedin.com/in/rafael-merlo-mendes-b0427a142/)
 [<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https">](https://www.instagram.com/rafaelmm16/)

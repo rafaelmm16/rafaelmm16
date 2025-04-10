@@ -27,13 +27,20 @@ Desenvolvedor Web e Mobile focado em criar soluções inovadoras e eficientes.  
 <img align="right" width="35%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
 
 ```kotlin
-object **Rafael** {
- val name = "Rafael Merlo Mendes"
- val acknowledgements = "Sistemas da Informação"
- 
- val primarySkillset = "Desenvolvedor de sites e aplicativos"
- val languages = listOf("C", "HTML", "CSS", "JavaScript", "React")
+interface Developer {
+  name: string;
+  acknowledgements: string;
+  primarySkillset: string;
+  languages: string[];
 }
+
+const Rafael: Developer = {
+  name: "Rafael Merlo Mendes",
+  acknowledgements: "Sistemas da Informação",
+  primarySkillset: "Desenvolvedor de sites e aplicativos",
+  languages: ["C", "HTML", "CSS", "JavaScript", "React"]
+};
+
 ```
 ### 📫 Contato
 

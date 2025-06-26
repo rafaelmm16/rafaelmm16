@@ -16,7 +16,7 @@ Desenvolvedor Web e Mobile focado em criar soluções inovadoras e eficientes.  
 <code><img height="32" src="https://www.alura.com.br/artigos/assets/html-css-js/imagem-1.png" alt="HTML"/></code>
 <code><img height="32" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" alt="CSS"/></code>
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="PYTHON"/></code>
-<code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="NODEJS"/></code>
+<code><img height="32" src="https://github.com/user-attachments/assets/ba0c6796-14da-41db-a3a2-4f6049833ce1" alt="NODEJS"/></code>
 <code><img height="32" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-256.png" alt="React"/></code>
 </div>
 

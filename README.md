@@ -17,6 +17,7 @@ Desenvolvedor Web e Mobile focado em criar soluções inovadoras e eficientes.  
 <code><img height="32" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" alt="CSS"/></code>
 <code><img height="32" src="https://github.com/user-attachments/assets/ba0c6796-14da-41db-a3a2-4f6049833ce1" alt="NODEJS"/></code>
 <code><img height="32" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-256.png" alt="React"/></code>
+<code><img height="32" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo.png" alt="Python"/></code>
 </div>
 
 ---

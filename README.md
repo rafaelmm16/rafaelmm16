@@ -30,12 +30,12 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou **Técnico em Informática** e formando em **Sistemas de Informação (FAESA)**, localizado em **São Mateus, ES**. Atuo no desenvolvimento de aplicações **Web** e **Mobile**, unindo engenharia de software moderna a uma base sólida em **Infraestrutura, Redes e Suporte de TI** construída em experiências no **IFES**, **Polo UAB**, **Prefeitura Municipal de São Mateus** e **Plena Benefícios**.
+Sou **Técnico em Informática** e formando em **Sistemas de Informação (FAESA)**, localizado em **São Mateus, ES**. Atuo no desenvolvimento de aplicações **Web** e **Mobile**, unindo engenharia de software moderna a uma base sólida em **Infraestrutura, Redes, Automação e Suporte de TI** construída em experiências no **IFES**, **Polo UAB**, **Prefeitura Municipal de São Mateus** e **Plena Benefícios**.
 
 - 🎓 Formando em **Bacharelado em Sistemas de Informação** (FAESA) & **Técnico em Informática**
-- 💻 Foco principal no ecossistema **TypeScript**, **React**, **Next.js**, **React Native (Expo)** e **Tailwind CSS**
-- ⚙️ Experiência com desenvolvimento back-end, APIs e banco de dados utilizando **Node.js**, **Express**, **TypeORM**, **SQLite**, **Python**, **Java** e **C**
-- 🖥️ Vivência prática em **Infraestrutura de TI**, administração de **Active Directory (AD)**, redes de computadores e suporte técnico
+- 💻 Foco principal no ecossistema **TypeScript**, **React**, **Next.js**, **React Native (Expo)**, **Tailwind CSS**, **TanStack Query** e **Zustand**
+- ⚙️ Experiência com back-end, automação e bancos de dados utilizando **Node.js**, **Express**, **MongoDB**, **SQLite**, **TypeORM**, **Python**, **PowerShell**, **Java**, **C/C++** e **Go**
+- 🖥️ Vivência prática em **Infraestrutura de TI**, administração de **Active Directory (AD)**, redes de computadores, monitoramento remoto e suporte técnico
 - 🌐 Explore meu portfólio completo, currículo e projetos: [**rafaelmm16.github.io**](https://rafaelmm16.github.io/)
 
 ---
@@ -46,9 +46,9 @@ Sou **Técnico em Informática** e formando em **Sistemas de Informação (FAESA
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Front-end & Mobile** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark" alt="Front-end & Mobile" /></a> |
-| **Back-end & Linguagens** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,python,java,c&theme=dark" alt="Back-end & Linguagens" /></a> |
-| **Ferramentas & Ambiente** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark" alt="Ferramentas & Ambiente" /></a> |
+| **Front-end & Mobile** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,html,css&theme=dark" alt="Front-end & Mobile" /></a> |
+| **Back-end & Linguagens** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sqlite,python,java,c,cpp,go&theme=dark" alt="Back-end & Linguagens" /></a> |
+| **Infra & Ferramentas** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,powershell,figma&theme=dark" alt="Infra & Ferramentas" /></a> |
 
 </div>
 
@@ -58,12 +58,12 @@ Sou **Técnico em Informática** e formando em **Sistemas de Informação (FAESA
 
 | Projeto | Descrição | Tecnologias | Links |
 | :--- | :--- | :--- | :---: |
-| **🌐 Portfólio Pessoal** | Portfólio interativo apresentando minha trajetória profissional, formação, certificações e projetos. | `Next.js` `TypeScript` `Tailwind CSS` | [Deploy](https://rafaelmm16.github.io/) &bull; [Código](https://github.com/rafaelmm16/rafaelmm16.github.io) |
-| **📱 Florescer** | Aplicativo mobile para acompanhamento e controle de hábitos saudáveis diários. | `React Native` `TypeScript` | [Código](https://github.com/rafaelmm16/Florescer) |
-| **🍳 Cook-App** | Aplicativo mobile que sugere receitas personalizadas com base nos ingredientes selecionados. | `React Native` `Expo` `TypeScript` | [Código](https://github.com/rafaelmm16/Cook-App) |
-| **🚌 SGBus** | Aplicativo universitário para consulta de pontos e rotas de ônibus e recarga de cartão de passagem. | `React Native` `Node.js` `TypeORM` `SQLite` | [Código](https://github.com/rafaelmm16/Projeto-de-Sistemas) |
-| **🎵 Spotify Cover** | Interface inspirada no Spotify, focada em fidelidade visual, componentização e layout responsivo. | `React` `TypeScript` `Tailwind CSS` | [Deploy](https://rafaelmm16.github.io/Spotify-Cover/) &bull; [Código](https://github.com/rafaelmm16/Spotify-Cover) |
-| **🖥️ Idlewatch Agent Server** | Sistema de monitoramento em tempo real composto por um agente e servidor em Python. | `Python` | [Código](https://github.com/rafaelmm16/Idlewatch-Agent-Server) |
+| **🌐 Portfólio Pessoal** | Portfólio interativo apresentando minha trajetória profissional, formação, certificações e vitrine integrada ao GitHub. | `Next.js` `TypeScript` `Tailwind CSS` | [Deploy](https://rafaelmm16.github.io/) &bull; [Código](https://github.com/rafaelmm16/rafaelmm16.github.io) |
+| **🎓 College** | Monorepositório e vitrine interativa reunindo os códigos e projetos de 19 disciplinas da graduação em Sistemas de Informação (como SGBus, Recicla Capixaba e Delivery Web App). | `Next.js` `TypeScript` `Tailwind CSS` | [Deploy](https://rafaelmm16.github.io/College/) &bull; [Código](https://github.com/rafaelmm16/College) |
+| **📱 Florescer** | Aplicativo mobile offline-first para controle de hábitos diários com streaks, heatmap de constância estilo GitHub, notificações locais e sincronização em nuvem. | `React Native` `Expo` `TypeScript` `Zustand` `Node.js` `MongoDB` | [Código](https://github.com/rafaelmm16/Florescer) |
+| **🖥️ Idlewatch Agent Server** | Sistema de monitoramento remoto em tempo real (CPU, memória, processos e tempo ocioso) integrado ao Active Directory (AD) via WinRM/PowerShell com exportação para Google Sheets. | `Python` `PowerShell` `WinRM` `Active Directory` | [Código](https://github.com/rafaelmm16/Idlewatch-Agent-Server) |
+| **🏷️ React na Prática** | Aplicação web para gerenciamento, filtragem e paginação de tags de vídeo com estado sincronizado na URL e cache assíncrono. | `React` `TypeScript` `Vite` `Tailwind CSS` `TanStack Query` | [Deploy](https://rafaelmm16.github.io/React-na-Pratica/) &bull; [Código](https://github.com/rafaelmm16/React-na-Pratica) |
+| **🍳 Cook-App** | Aplicativo mobile que sugere receitas personalizadas com base nos ingredientes selecionados pelo usuário. | `React Native` `Expo` `TypeScript` | [Código](https://github.com/rafaelmm16/Cook-App) |
 
 ---
 

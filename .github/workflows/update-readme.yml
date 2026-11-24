@@ -1,0 +1,42 @@
+name: Update Profile README
+
+on:
+  schedule:
+    # Executa automaticamente a cada 6 horas
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  repository_dispatch:
+    types: [update-readme]
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Update README with latest GitHub projects
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: rafaelmm16
+        run: node scripts/update-readme.mjs
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "Nenhuma alteração detectada no README.md."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: auto-update README projects from GitHub"
+          git push

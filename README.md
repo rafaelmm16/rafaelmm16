@@ -59,11 +59,11 @@ Sou **Técnico em Informática** e formando em **Sistemas de Informação (FAESA
 | Projeto | Descrição | Tecnologias | Links |
 | :--- | :--- | :--- | :---: |
 | **🌐 Portfólio Pessoal** | Portfólio interativo apresentando minha trajetória profissional, formação, certificações e vitrine integrada ao GitHub. | `Next.js` `TypeScript` `Tailwind CSS` | [Deploy](https://rafaelmm16.github.io/) &bull; [Código](https://github.com/rafaelmm16/rafaelmm16.github.io) |
+| **🚀 Rocketseat Hub** | Monorepositório e portal unificado reunindo 8 projetos de cursos e eventos da Rocketseat (pass.in, Cook App, My Goals, nivo.video, Orders, To-Do List API, Proffy e Ecoleta). | `Next.js` `TypeScript` `React Native` `Node.js` `Java` | [Deploy](https://rafaelmm16.github.io/Rocketseat/) &bull; [Código](https://github.com/rafaelmm16/Rocketseat) |
 | **🎓 College** | Monorepositório e vitrine interativa reunindo os códigos e projetos de 19 disciplinas da graduação em Sistemas de Informação (como SGBus, Recicla Capixaba e Delivery Web App). | `Next.js` `TypeScript` `Tailwind CSS` | [Deploy](https://rafaelmm16.github.io/College/) &bull; [Código](https://github.com/rafaelmm16/College) |
 | **📱 Florescer** | Aplicativo mobile offline-first para controle de hábitos diários com streaks, heatmap de constância estilo GitHub, notificações locais e sincronização em nuvem. | `React Native` `Expo` `TypeScript` `Zustand` `Node.js` `MongoDB` | [Código](https://github.com/rafaelmm16/Florescer) |
 | **🖥️ Idlewatch Agent Server** | Sistema de monitoramento remoto em tempo real (CPU, memória, processos e tempo ocioso) integrado ao Active Directory (AD) via WinRM/PowerShell com exportação para Google Sheets. | `Python` `PowerShell` `WinRM` `Active Directory` | [Código](https://github.com/rafaelmm16/Idlewatch-Agent-Server) |
-| **🏷️ React na Prática** | Aplicação web para gerenciamento, filtragem e paginação de tags de vídeo com estado sincronizado na URL e cache assíncrono. | `React` `TypeScript` `Vite` `Tailwind CSS` `TanStack Query` | [Deploy](https://rafaelmm16.github.io/React-na-Pratica/) &bull; [Código](https://github.com/rafaelmm16/React-na-Pratica) |
-| **🍳 Cook-App** | Aplicativo mobile que sugere receitas personalizadas com base nos ingredientes selecionados pelo usuário. | `React Native` `Expo` `TypeScript` | [Código](https://github.com/rafaelmm16/Cook-App) |
+| **🎨 Web Development** | Diretório interativo com 22 projetos front-end: clones de interfaces (Netflix, YouTube, Pinterest, Apple), landing pages, telas de login, componentes UI e laboratórios JS. | `HTML5` `CSS3` `JavaScript` `Tailwind CSS` `Bootstrap` | [Deploy](https://rafaelmm16.github.io/Web-Development/) &bull; [Código](https://github.com/rafaelmm16/Web-Development) |
 
 ---
 

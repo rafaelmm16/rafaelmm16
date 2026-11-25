@@ -60,12 +60,12 @@ Sou **Técnico em Informática** e formando em **Sistemas de Informação (FAESA
 | Projeto | Descrição | Tecnologias | Links |
 | :--- | :--- | :--- | :---: |
 | **🌐 Portfólio Pessoal** | Portfólio interativo apresentando minha trajetória profissional, formação, certificações e vitrine integrada ao GitHub. | `Next.js` `TypeScript` `Tailwind CSS` | [Deploy](https://rafaelmm16.github.io/) &bull; [Código](https://github.com/rafaelmm16/rafaelmm16.github.io) |
-| **📦 Go Lang** | Repositório de estudo sobre a linguagem Go Lang | `Go` `golang` | [Código](https://github.com/rafaelmm16/Go-Lang) |
 | **💻 Clicker Project** | Jogo clicker em duas versões no mesmo repositório: versão web com estética Retro Terminal/Cyberpunk (upgrades, prestígio e conquistas) e versão original de terminal em C. | `Next.js` `TypeScript` `Tailwind CSS` `C` | [Deploy](https://rafaelmm16.github.io/Clicker-Project/) &bull; [Código](https://github.com/rafaelmm16/Clicker-Project) |
+| **📦 Monitor de Rede e Servicos Self Hosted** | Projeto desenvolvido e disponível no GitHub. | `TypeScript` | [Código](https://github.com/rafaelmm16/Monitor-de-Rede-e-Servicos-Self-Hosted) |
+| **📦 Go Lang** | Repositório de estudo sobre a linguagem Go Lang | `Go` `golang` | [Código](https://github.com/rafaelmm16/Go-Lang) |
 | **🎓 College** | Monorepositório e vitrine interativa reunindo os códigos e projetos de 19 disciplinas da graduação em Sistemas de Informação (como SGBus, Recicla Capixaba e Delivery Web App). | `Next.js` `TypeScript` `Tailwind CSS` | [Deploy](https://rafaelmm16.github.io/College/) &bull; [Código](https://github.com/rafaelmm16/College) |
 | **🚀 Rocketseat Hub** | Monorepositório e portal unificado reunindo 8 projetos de cursos e eventos da Rocketseat (pass.in, Cook App, My Goals, nivo.video, Orders, To-Do List API, Proffy e Ecoleta). | `Next.js` `TypeScript` `React Native` `Node.js` `Java` | [Deploy](https://rafaelmm16.github.io/Rocketseat/) &bull; [Código](https://github.com/rafaelmm16/Rocketseat) |
 | **🎨 Web Development** | Diretório interativo com 22 projetos front-end: clones de interfaces (Netflix, YouTube, Pinterest, Apple), landing pages, telas de login, componentes UI e laboratórios JS. | `HTML5` `CSS3` `JavaScript` `Tailwind CSS` `Bootstrap` | [Deploy](https://rafaelmm16.github.io/Web-Development/) &bull; [Código](https://github.com/rafaelmm16/Web-Development) |
-| **📱 Florescer** | Aplicativo mobile offline-first para controle de hábitos diários com streaks, heatmap de constância estilo GitHub, notificações locais e sincronização em nuvem. | `React Native` `Expo` `TypeScript` `Zustand` `Node.js` `MongoDB` | [Código](https://github.com/rafaelmm16/Florescer) |
 <!-- PROJECTS:END -->
 <!-- PROJECTS:END -->
 
